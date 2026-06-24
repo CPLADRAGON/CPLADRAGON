@@ -55,7 +55,7 @@
 
 ## <img src="https://img.icons8.com/fluency/35/rocket.png" width="28"/> Featured Projects
 
-### 🏛️ [NUS Vacansee](https://github.com/CPLADRAGON/nus-vacansee)
+### <img src="https://raw.githubusercontent.com/CPLADRAGON/nus-vacansee/main/public/icon.svg" width="28"/> [NUS Vacansee](https://github.com/CPLADRAGON/nus-vacansee)
 > *"See what's free, now." · TypeScript*
 
 Real-time NUS campus room finder — reads class timetables, computes which venues have no class right now, and shows the **nearest free rooms first** with how long they stay free, room type, and one-tap directions.
@@ -88,7 +88,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
     <td valign="top">
-      <h4><a href="https://github.com/CPLADRAGON/nutritrack-ai">🥗 NutriTrack AI</a></h4>
+      <h4><img src="https://raw.githubusercontent.com/CPLADRAGON/nutritrack-ai/main/public/icon.svg" width="20"/> <a href="https://github.com/CPLADRAGON/nutritrack-ai">NutriTrack AI</a></h4>
       <p>Serverless nutrition assistant: Gemini AI analyses food photos for calorie/macro estimates, stored in your own Google Sheets. Zero cost, full privacy.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       &nbsp;<a href="https://cpladragon.github.io/nutritrack-ai/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=github&logoColor=white"/></a>
@@ -96,7 +96,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
   </tr>
   <tr>
     <td valign="top">
-      <h4><a href="https://github.com/CPLADRAGON/What2Sing">🎤 What2Sing</a></h4>
+      <h4><img src="https://raw.githubusercontent.com/CPLADRAGON/What2Sing/main/public/icon.svg" width="20"/> <a href="https://github.com/CPLADRAGON/What2Sing">What2Sing</a></h4>
       <p>Mobile-first KTV song picker with bilingual EN/中 support, QQ Music import via Cheerio, and a swipe-friendly song selection flow built on Next.js.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     </td>
