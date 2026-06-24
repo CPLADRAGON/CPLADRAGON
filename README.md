@@ -1,8 +1,9 @@
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&customColorList=6,11,20&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&fontAlignY=45&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=65&descSize=18" />
+
 <div align="center">
 
-<h1>Hi there, I'm Boyu Wang 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+Intern+%40+Infineon+Technologies;The+70th+NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Boyu!+%F0%9F%91%8B;EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+%40+Infineon+Technologies;NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Greeting and roles" />
 
 </div>
 
@@ -133,3 +134,6 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CPLADRAGON&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile views" />
 </p>
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&customColorList=6,11,20&section=footer" />
