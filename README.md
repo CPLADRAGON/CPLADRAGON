@@ -1,16 +1,10 @@
-<!-- Wave Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=55&descSize=18" />
-
-<!-- Animated Typing Greeting -->
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Boyu!+%F0%9F%91%8B;EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+%40+Infineon+%F0%9F%94%8C;NUS+Chinese+Society+President+%F0%9F%8E%8B;Embedded+Systems+%26+IoT+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+<h1>Hi there, I'm Boyu Wang 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+%40+Infineon+Technologies;NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Roles" />
+
+</div>
 
 ---
 
@@ -54,46 +48,66 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
+![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-CC785C?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 ---
 
 ## <img src="https://img.icons8.com/fluency/35/rocket.png" width="28"/> Featured Projects
 
-### 👻 [Ghost Busting Device — STM32](https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32)
+### 🏛️ [NUS Vacansee](https://github.com/CPLADRAGON/nus-vacansee)
+> *"See what's free, now." · TypeScript*
 
-> *EE2028 Final Project · **28.5 / 30***
+Real-time NUS campus room finder — reads class timetables, computes which venues have no class right now, and shows the **nearest free rooms first** with how long they stay free, room type, and one-tap directions.
 
-STM32-based ghost detection system integrating **temperature**, **humidity**, and **magnetic intensity** sensors. Displays real-time status on LCD:
+`📍 Location-aware` &nbsp; `🟢 Live refresh (30s)` &nbsp; `🗺️ Map view` &nbsp; `🧭 One-tap directions`
 
-`DETECTED` → `READY TO BE BUSTED` → `BUSTED`
+[![View Repo](https://img.shields.io/badge/View_on_GitHub-nus--vacansee-181717?style=flat-square&logo=github)](https://github.com/CPLADRAGON/nus-vacansee)
 
-[![View Repo](https://img.shields.io/badge/View_on_GitHub-Ghost_Busting_Device-181717?style=flat-square&logo=github)](https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32)
+---
 
-<p align="center">
-  <a href="https://github.com/CPLADRAGON/Aether-OS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=Aether-OS&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/CPLADRAGON/Precision-Earth-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=Precision-Earth-Dashboard&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CPLADRAGON/EchoHealth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=EchoHealth&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/CPLADRAGON/nutritrack-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=nutritrack-ai&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/CPLADRAGON/What2Sing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=What2Sing&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/CPLADRAGON/nus-vacansee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=nus-vacansee&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/Aether-OS">⚡ Aether-OS</a></h4>
+      <p>Dual-core ESP32 system with a "Liquid UI" for real-time environmental monitoring, synced to a Supabase cloud Digital Twin. Sub-500ms WiFi via BSSID pinning.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/Precision-Earth-Dashboard">🌱 Precision Earth Dashboard</a></h4>
+      <p>Forensic-grade smart agriculture monitor with a Gemini AI agronomist advisor, IoT command centre, and Digital Twin field audits. EE4409 project.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      &nbsp;<a href="https://precision-earth-dashboard.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/EchoHealth">🍎 EchoHealth</a></h4>
+      <p>Apple Health export → interactive HTML dashboard + GPS workout map. 14 charts, heatmaps, anomaly detection. Runs 100% client-side — no data ever leaves your browser.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/nutritrack-ai">🥗 NutriTrack AI</a></h4>
+      <p>Serverless nutrition assistant: Gemini AI analyses food photos for calorie/macro estimates, stored in your own Google Sheets. Zero cost, full privacy.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      &nbsp;<a href="https://cpladragon.github.io/nutritrack-ai/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/What2Sing">🎤 What2Sing</a></h4>
+      <p>Mobile-first KTV song picker with bilingual EN/中 support, QQ Music import via Cheerio, and a swipe-friendly song selection flow built on Next.js.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <h4><a href="https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32">👻 Ghost Busting Device</a></h4>
+      <p>STM32 system detecting ghost activity via temperature, humidity & magnetic sensors with real-time LCD status. EE2028 project — <strong>28.5/30</strong>.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -119,7 +133,3 @@ STM32-based ghost detection system integrating **temperature**, **humidity**, an
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CPLADRAGON&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile views" />
 </p>
-
-<!-- Wave Footer -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
