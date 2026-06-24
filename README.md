@@ -83,7 +83,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
   </tr>
   <tr>
     <td valign="top">
-      <h4><a href="https://github.com/CPLADRAGON/EchoHealth">🍎 EchoHealth</a></h4>
+      <h4><img src="https://raw.githubusercontent.com/CPLADRAGON/EchoHealth/main/web/icon-512.png" width="20"/> <a href="https://github.com/CPLADRAGON/EchoHealth">EchoHealth</a></h4>
       <p>Apple Health export → interactive HTML dashboard + GPS workout map. 14 charts, heatmaps, anomaly detection. Runs 100% client-side — no data ever leaves your browser.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     </td>
