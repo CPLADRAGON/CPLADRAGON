@@ -1,10 +1,9 @@
-<h1>Hi there, I'm Boyu Wang 👋</h1>
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=180&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&fontAlignY=40&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%2B%20Embedded%20Systems&descAlignY=60&descSize=18&reversal=false" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+Intern+%40+Infineon+Technologies;The+70th+NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Contactless+App+Engineer+Intern+%40+Infineon+Technologies;The+70th+NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Roles" />
 
 </div>
 
