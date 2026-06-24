@@ -12,17 +12,17 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://img.icons8.com/fluency/35/about.png" width="28"/> About Me
 
 - 🎓 **B.Eng (Hons) Electrical Engineering** @ [National University of Singapore](https://nus.edu.sg/), specialising in **Internet of Things**
 - 💼 **Contactless Application Engineer Intern** @ [Infineon Technologies](https://www.infineon.com/) *(Jan 2026 – Jul 2026)*
-- 🏛️ **President**, NUS Chinese Society *(Apr 2025 – Present)*
+- 🏛️ **President**, NUS Chinese Society *(Apr 2025 – Apr 2026)*
 - 🔭 Currently exploring NFC/contactless technology, embedded systems, and IoT applications
 - 📫 Reach me at **e1121322@u.nus.edu**
 
 ---
 
-## 🔗 Connect with Me
+## <img src="https://img.icons8.com/fluency/35/link.png" width="28"/> Connect with Me
 
 <p align="center">
   <a href="https://github.com/CPLADRAGON">
@@ -41,27 +41,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://img.icons8.com/fluency/35/maintenance.png" width="28"/> Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 
 **Embedded & IoT**
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/fluency/35/rocket.png" width="28"/> Featured Projects
 
 ### 👻 [Ghost Busting Device — STM32](https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32)
 > *EE2028 Final Project · **28.5 / 30***
@@ -72,9 +69,36 @@ STM32-based ghost detection system integrating **temperature**, **humidity**, an
 
 [![View Repo](https://img.shields.io/badge/View_on_GitHub-Ghost_Busting_Device-181717?style=flat-square&logo=github)](https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32)
 
+<p align="center">
+  <a href="https://github.com/CPLADRAGON/Aether-OS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=Aether-OS&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/CPLADRAGON/Precision-Earth-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=Precision-Earth-Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CPLADRAGON/EchoHealth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=EchoHealth&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/CPLADRAGON/nutritrack-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=nutritrack-ai&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CPLADRAGON/What2Sing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=What2Sing&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/CPLADRAGON/nus-vacansee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CPLADRAGON&repo=nus-vacansee&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluency/35/graph.png" width="28"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CPLADRAGON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
@@ -87,20 +111,7 @@ STM32-based ghost detection system integrating **temperature**, **humidity**, an
 
 ---
 
-## 🏆 Highlights
-
-| | |
-|:---:|:---|
-| 🤝 | Secured **$12,000** in corporate sponsorships (JD.com, Alipay, ICBC, China Unicom) for NUS Chinese Society |
-| 🎤 | Directed 2024 Mid-Autumn Festival NUS Singing Competition · **200+ attendees** |
-| 🎓 | Led NUS orientation welcoming **300+ freshmen** (2024 & 2025) |
-| 💻 | FOSSASIA Hackathon participant |
-| ✍️ | MOE CLEP Camp Short Story Writing Competition — **1st Runner Up** |
-| 🎖️ | Sergeant Major Coin — National Service |
-
----
-
-## 🎯 Interests
+## <img src="https://img.icons8.com/fluency/35/goal.png" width="28"/> Interests
 
 🎵 &nbsp;**Singing** &nbsp;&nbsp;&nbsp; 🥾 &nbsp;**Hiking** &nbsp;&nbsp;&nbsp; ✈️ &nbsp;**Travel**
 
