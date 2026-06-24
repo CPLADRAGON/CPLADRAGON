@@ -1,7 +1,9 @@
 <!-- Wave Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=55&descSize=18" />
 
 <!-- Animated Typing Greeting -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Boyu!+%F0%9F%91%8B;EE+Student+%40+NUS+%7C+IoT+Specialisation;Contactless+App+Engineer+%40+Infineon+%F0%9F%94%8C;NUS+Chinese+Society+President+%F0%9F%8E%8B;Embedded+Systems+%26+IoT+Enthusiast" alt="Typing SVG" />
@@ -33,10 +35,6 @@
   </a>
   <a href="https://www.youtube.com/@cpladragon1414">
     <img src="https://img.shields.io/badge/YouTube-CPLADRAGON-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/CPLADRAGON/CPLADRAGON/raw/main/Resume_WANGBOYU.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-00897B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -61,6 +59,7 @@
 ## <img src="https://img.icons8.com/fluency/35/rocket.png" width="28"/> Featured Projects
 
 ### 👻 [Ghost Busting Device — STM32](https://github.com/CPLADRAGON/Ghost-Busting-Device-STM32)
+
 > *EE2028 Final Project · **28.5 / 30***
 
 STM32-based ghost detection system integrating **temperature**, **humidity**, and **magnetic intensity** sensors. Displays real-time status on LCD:
@@ -122,4 +121,5 @@ STM32-based ghost detection system integrating **temperature**, **humidity**, an
 </p>
 
 <!-- Wave Footer -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
