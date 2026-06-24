@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&customColorList=6,11,20&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&fontAlignY=45&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=65&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,11,20&height=180&section=header&text=Boyu%20Wang&fontSize=44&fontColor=fff&fontAlignY=40&desc=EE%20Student%20%40%20NUS%20%7C%20IoT%20%26%20Embedded%20Systems&descAlignY=60&descSize=18&reversal=false" />
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/about.png" width="28"/> About Me
+## <img src="https://api.iconify.design/mdi/account-circle-outline.svg?color=%2336BCF7&height=28" width="28"/> About Me
 
 - 🎓 **B.Eng (Hons) Electrical Engineering** @ [National University of Singapore](https://nus.edu.sg/), specialising in **Internet of Things**
 - 💼 **Contactless Application Engineer Intern** @ [Infineon Technologies](https://www.infineon.com/) *(Jan 2026 – Jul 2026)*
@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/link.png" width="28"/> Connect with Me
+## <img src="https://api.iconify.design/mdi/link-variant.svg?color=%2336BCF7&height=28" width="28"/> Connect with Me
 
 <p align="center">
   <a href="https://github.com/CPLADRAGON">
@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/maintenance.png" width="28"/> Tech Stack
+## <img src="https://api.iconify.design/mdi/tools.svg?color=%2336BCF7&height=28" width="28"/> Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/rocket.png" width="28"/> Featured Projects
+## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2336BCF7&height=28" width="28"/> Featured Projects
 
 ### <img src="https://raw.githubusercontent.com/CPLADRAGON/nus-vacansee/main/public/icon.svg" width="28"/> [NUS Vacansee](https://github.com/CPLADRAGON/nus-vacansee)
 > *"See what's free, now." · TypeScript*
@@ -112,7 +112,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/graph.png" width="28"/> GitHub Stats
+## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2336BCF7&height=28" width="28"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CPLADRAGON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
@@ -125,7 +125,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 
 ---
 
-## <img src="https://img.icons8.com/fluency/35/goal.png" width="28"/> Interests
+## <img src="https://api.iconify.design/mdi/heart-outline.svg?color=%2336BCF7&height=28" width="28"/> Interests
 
 🎵 &nbsp;**Singing** &nbsp;&nbsp;&nbsp; 🥾 &nbsp;**Hiking** &nbsp;&nbsp;&nbsp; ✈️ &nbsp;**Travel**
 
