@@ -51,6 +51,7 @@
 
 ![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
