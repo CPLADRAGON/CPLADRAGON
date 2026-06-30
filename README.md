@@ -116,7 +116,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 ## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2336BCF7&height=28" width="28"/> GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPLADRAGON&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPLADRAGON&bg_color=1a1b27&color=36BCF7&title_color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
