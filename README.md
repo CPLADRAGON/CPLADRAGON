@@ -51,7 +51,7 @@
 
 ![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![antigravity](https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -116,16 +116,16 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 ## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2336BCF7&height=28" width="28"/> GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPLADRAGON&bg_color=1a1b27&color=36BCF7&title_color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CPLADRAGON&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CPLADRAGON&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPLADRAGON&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=CPLADRAGON&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CPLADRAGON&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPLADRAGON&bg_color=1a1b27&color=36BCF7&title_color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
