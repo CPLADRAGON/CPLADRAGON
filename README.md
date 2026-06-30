@@ -116,12 +116,16 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 ## <img src="https://api.iconify.design/mdi/chart-bar.svg?color=%2336BCF7&height=28" width="28"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CPLADRAGON&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPLADRAGON&theme=tokyonight" alt="Profile summary" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CPLADRAGON&theme=tokyonight" height="165" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPLADRAGON&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=CPLADRAGON&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CPLADRAGON&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
