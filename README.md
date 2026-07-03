@@ -58,7 +58,7 @@
 ## <img src="https://api.iconify.design/mdi/rocket-launch-outline.svg?color=%2336BCF7&height=28" width="28"/> Featured Projects
 
 ### <img src="https://raw.githubusercontent.com/CPLADRAGON/nus-vacansee/main/public/icon.svg" width="28"/> [NUS Vacansee](https://github.com/CPLADRAGON/nus-vacansee)
-> *"See what's free, now." · TypeScript*
+> *"Find your free room nearby." · TypeScript*
 
 Real-time NUS campus room finder — reads class timetables, computes which venues have no class right now, and shows the **nearest free rooms first** with how long they stay free, room type, and one-tap directions.
 
@@ -117,7 +117,7 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CPLADRAGON&theme=2077" height="165" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPLADRAGON&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CPLADRAGON&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -125,7 +125,11 @@ Real-time NUS campus room finder — reads class timetables, computes which venu
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CPLADRAGON&bg_color=1a1b27&color=36BCF7&title_color=36BCF7&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CPLADRAGON/CPLADRAGON/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPLADRAGON/CPLADRAGON/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CPLADRAGON/CPLADRAGON/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
