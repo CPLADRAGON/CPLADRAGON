@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Contactless+App+Engineer+Intern+%40+Infineon+Technologies;The+70th+NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Ex-Contactless+App+Engineer+Intern+%40+Infineon+Technologies;The+70th+NUS+Chinese+Society+President;Embedded+Systems+%26+IoT+Enthusiast;AI-Augmented+Full-Stack+Builder" alt="Roles" />
 
 </div>
 
@@ -11,10 +11,10 @@
 
 ## <img src="https://api.iconify.design/mdi/account-circle-outline.svg?color=%2336BCF7&height=28" width="28"/> About Me
 
-- 🎓 **B.Eng (Hons) Electrical Engineering** @ [National University of Singapore](https://nus.edu.sg/), specialising in **Internet of Things**
-- 💼 **Contactless Application Engineer Intern** @ [Infineon Technologies](https://www.infineon.com/) *(Jan 2026 – Jul 2026)*
+- 🎓 **Final-year B.Eng (Hons) Electrical Engineering** @ [National University of Singapore](https://nus.edu.sg/) — specialising in **Internet of Things**, with a **Minor in Artificial Intelligence**
+- 💼 **Recently completed** a 7-month internship as a **Contactless Application Engineer Intern** @ [Infineon Technologies](https://www.infineon.com/) *(Jan 2026 – Jul 2026)*
 - 🏛️ **President**, NUS Chinese Society *(Apr 2025 – Apr 2026)*
-- 🔭 Currently exploring NFC/contactless technology, embedded systems, and IoT applications
+- 🔭 Interested in **NFC / contactless technology**, **embedded systems & IoT**, and **AI-augmented development**
 - 📫 Reach me at **e1121322@u.nus.edu**
 
 ---
@@ -38,16 +38,27 @@
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,typescript)](https://skillicons.dev)
 
-**Embedded & IoT**
+**Embedded, IoT & Contactless**
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PSoC 6](https://img.shields.io/badge/PSoC_6-0091BD?style=for-the-badge&logo=infineon&logoColor=white)
+![NFC / ISO 14443](https://img.shields.io/badge/NFC_%2F_ISO_14443-1D1D1D?style=for-the-badge&logo=nfc&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Web & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,supabase)](https://skillicons.dev)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Tools & Platforms**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+**AI-Augmented Development** — *I direct AI coding agents to rapidly build & ship full-stack products, validating the output myself.*
 
 ![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-CC785C?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
